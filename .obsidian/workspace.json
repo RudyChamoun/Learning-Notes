@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "b65ad18da770107a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c102df685aba18b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5ae0f703a3d2835",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apgar/Technical Exam Content.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f3942d84d487680",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5d7498082cd1650",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99834eb1ee40281c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2500e850c9756a33",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a3f3a15be8f789c9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ba1ef5ba042c49c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fcf20ba46738209",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfd0604bb3130914",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Apgar/Technical Exam Content.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5044d81006b1d939",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Apgar/Technical Exam Content.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d69383be85a4ed85",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a5a1b5a372c16c71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Apgar/Technical Exam Content.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "99834eb1ee40281c",
+  "lastOpenFiles": [
+    "Learning Notes/Browser-Server.md",
+    "Apgar/Technical Exam Content.md",
+    "Untitled.md",
+    "Untitled",
+    "Learning Notes",
+    "Technical Exam Content.md",
+    "Apgar"
+  ]
+}
