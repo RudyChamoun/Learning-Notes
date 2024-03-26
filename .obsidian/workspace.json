@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c102df685aba18b5",
+        "id": "138000044f3b29c1",
         "type": "tabs",
         "children": [
           {
-            "id": "a5ae0f703a3d2835",
+            "id": "e16101a6dc0155b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apgar/Technical Exam Content.md",
+                "file": "Users/user/Desktop/Learning/Obsidian_remote_repo/Browser-Server.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5110321044922
   },
   "right": {
     "id": "ba1ef5ba042c49c1",
@@ -85,11 +85,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apgar/Technical Exam Content.md",
-                "collapseAll": false,
+                "file": "Users/user/Desktop/Learning/Obsidian_remote_repo/Browser-Server.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apgar/Technical Exam Content.md",
+                "file": "Users/user/Desktop/Learning/Obsidian_remote_repo/Browser-Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apgar/Technical Exam Content.md"
+                "file": "Users/user/Desktop/Learning/Obsidian_remote_repo/Browser-Server.md"
               }
             }
           }
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 294.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,12 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99834eb1ee40281c",
+  "active": "e16101a6dc0155b5",
   "lastOpenFiles": [
-    "Learning Notes/Browser-Server.md",
-    "Apgar/Technical Exam Content.md",
+    "rem",
+    "Users/user/Desktop/Learning/Obsidian_remote_repo/Cookies - Sessions.md",
+    "Users/user/Desktop/Learning/Obsidian_remote_repo/Browser-Server.md",
     "Untitled.md",
+    "Learning Notes/Content to Learn.md",
+    "Users/user/Desktop/Learning/Obsidian_remote_repo/GitHub and GitBash (Git).md",
+    "Users/user/Desktop/Learning/Obsidian_remote_repo",
+    "Users/user/Desktop/Learning",
+    "Users/user/Desktop",
+    "Users/user",
+    "Users",
+    "2024-03-26.md",
     "Untitled",
+    "Apgar/Technical Exam Content.md",
     "Learning Notes",
     "Technical Exam Content.md",
     "Apgar"
