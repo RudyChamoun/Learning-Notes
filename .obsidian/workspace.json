@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Users/user/Desktop/Learning/Obsidian_remote_repo/Browser-Server.md",
+                "file": "Learning Notes/Browser-Server.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Users/user/Desktop/Learning/Obsidian_remote_repo/Browser-Server.md",
+                "file": "Learning Notes/Browser-Server.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Users/user/Desktop/Learning/Obsidian_remote_repo/Browser-Server.md",
+                "file": "Learning Notes/Browser-Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Users/user/Desktop/Learning/Obsidian_remote_repo/Browser-Server.md"
+                "file": "Learning Notes/Browser-Server.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,12 +147,12 @@
   },
   "active": "885e61dfb351907b",
   "lastOpenFiles": [
-    "Users/user/Desktop/Learning/Obsidian_remote_repo/Cookies - Sessions.md",
-    "Users/user/Desktop/Learning/Obsidian_remote_repo/Browser-Server.md",
+    "Learning Notes/Cookies - Sessions.md",
+    "Learning Notes/Browser-Server.md",
     "rem",
     "Untitled.md",
     "Learning Notes/Content to Learn.md",
-    "Users/user/Desktop/Learning/Obsidian_remote_repo/GitHub and GitBash (Git).md",
+    "Learning Notes/GitHub and GitBash (Git).md",
     "Users/user/Desktop/Learning/Obsidian_remote_repo",
     "Users/user/Desktop/Learning",
     "Users/user/Desktop",
