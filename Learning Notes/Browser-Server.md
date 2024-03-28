@@ -3,7 +3,7 @@
 
 When a browser sends a request to a server, such as requesting a web page, here’s how it typically works
 
-1.     **Client Sends a Request**: The process begins when a user interacts with a web application, such as clicking on a link or submitting a form, which triggers the browser to send an ==HTTP== request to the server.
+1.     **Client Sends a Request**: The process begins when a user interacts with a web application, such as clicking on a link or submitting a form, which triggers the browser to send an ==HTTP== (hyper text transfer protocol) request to the server.
 
 2.     **Server Receives the Request:** The server, upon receiving the HTTP request, determines which resource or web page the client is requesting.
 
