@@ -10,21 +10,20 @@
 <u> General Structure of a Web Page </u>
 
 - The following elements are part of every web page :
+`<html>`
+	`<head>`
+			`<title> What appears in title of page</title>`
+	`</head>`
+		`<body>`
+			`html content .....`
+		`</body>`
+`</html>`
 
-<!-- 
-	<html>
-		<head>
-			<title></title>
-		</head>
-		<body>
-		
-		</body>
-</html> 
 
--->
+
 
 <u>HTML Basics</u> 
 
-To see a basic website where HTML is implemented, open the following path in VSCode and run it using the live server : 
+To see a basic website where HTML is implemented and displays all the basic html features, open the following path in VSCode and run it using the live server : 
 
-<!-- C:\Users\user\Desktop\UNI\Spring24\Web Programming\Exercises(WorkSheets)\HTML-BasicPHP\Websites\trial2.html -->
+` C:\Users\user\Desktop\UNI\Spring24\Web Programming\Exercises(WorkSheets)\HTML-BasicPHP\Websites\trial2.html'

@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Learning Notes/HTML.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -160,11 +160,11 @@
   },
   "active": "5401ca256400211e",
   "lastOpenFiles": [
+    "1-HTML Basics.pdf",
+    "Learning Notes/HTML.md",
     "Learning Notes/Browser-Server.md",
     "Learning Notes/Content to Learn.md",
     "Learning Notes/GitHub and GitBash (Git).md",
-    "Learning Notes/HTML.md",
-    "1-HTML Basics.pdf",
     "Learning Notes/Cookies - Sessions.md",
     "Untitled",
     "rem",
