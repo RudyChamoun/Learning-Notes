@@ -1,4 +1,6 @@
-- Learn JavaScript syntax + it's use [ Watch youtube video + Complete online Course ]
+## RoadMap
+
+- Learn JavaScript syntax + it's use [ Learn through Codecademy + watch youtube video]
 
 - Practice JavaScript prbs [ Use CSC50 ]
 
