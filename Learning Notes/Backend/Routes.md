@@ -1,5 +1,3 @@
-**(Fix Summary of Routes and Middleware add them in server browser)**
-browser sends a http request -->the server matches the request(URL) to the specified route --> after route is established --> middleware functions execute -->the handler function associated to that route is executed
 ## <u>What are Routes </u>
 
 - In backend development, especially when using frameworks like Express.js in JavaScript, routes refer to the mechanism of ==mapping HTTP requests== to specific functions or handlers that process those requests.

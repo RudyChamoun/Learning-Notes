@@ -3,19 +3,20 @@
 
 When a browser sends a request to a server, such as requesting a web page, here’s how it typically works
 
-1.     **Client Sends a Request**: The process begins when a user interacts with a web application, such as clicking on a link or submitting a form, which triggers the browser to send an ==HTTP== (hyper text transfer protocol) request to the server.
-
-2.     **Server Receives the Request:** The server, upon receiving the HTTP request, determines which resource or web page the client is requesting.
-
-3.     **Server-side Scripting Language Executes**: If the requested resource is dynamic or requires server-side processing (e.g., retrieving data from a database), the server-side scripting language comes into play. The server executes the appropriate script written in the chosen server-side language.
-
-4.     **Data Processing and Generation**: The server-side script may perform various tasks, such as querying a database for information, processing user input, or generating HTML content dynamically based on specific conditions or parameters.
-
-5.     **HTML Generation**: After processing the request and any necessary data, the server-side script generates HTML content dynamically. This HTML content may include text, images, forms, and other elements required to render the web page.
-
-6.     **Response Sent to Client**: Once the HTML content is generated, the server sends an HTTP response back to the client's browser. This response typically includes the dynamically generated HTML content along with any other necessary resources, such as stylesheets, scripts, or media files.
-
-7.     **Client Renders the Response**: Upon receiving the response, the client's browser renders the HTML content received from the server, displaying the dynamic web page to the user.
+1. **HTTP Request from the Browser:**
+    - A user interacts with a web page in their browser, triggering an HTTP request. This could be clicking a link, submitting a form, or any action requiring data from the server.
+2. **Routing and Endpoint Mapping:**
+    - The HTTP request is received by the server. The server's routing system maps the request to a specific endpoint based on the URL. Endpoints are predefined paths (<b>routes</b>) within the application that correspond to specific functionalities. For instance, a request to `/products` would be mapped to the endpoint responsible for handling product-related data.
+3. **Middleware:**
+    - The request may pass through one or more middleware functions before reaching the route handler. Middleware functions can perform tasks such as authentication, logging, or preprocessing required before handling the request.
+4. **Route Handler:**
+    - Once past any middleware, the request reaches the appropriate route handler associated with the mapped endpoint. The route handler is responsible for processing the request and generating a response.
+5. **Database Interaction:**
+    - The route handler initiates communication with the database to fetch the required data. This involves constructing and executing a database query tailored to the endpoint's purpose.
+6. **Response Generation:**
+    - After retrieving data from the database, the route handler constructs an HTTP response containing the requested data. Additionally, the response may include status codes, headers, and other metadata necessary for the client.
+7. **HTTP Response to the Browser:**
+    - The HTTP response is sent back to the browser, where it's received and processed. The browser then renders the response, presenting the requested data to the user.
 
 <u>Ex:</u> Whenever I am using a website, let’s say I clicked on the next page button wich shows me dynamic content, the way that actually works is the following : the next page click is interpreted as a request, the browser sends this request to the server using HTTP. The server receives this request, it analyses what the request is asking for (querying a database for information, processing user input, or generating HTML content dynamically based on specific conditions or parameters), in our case there is dynamic content to be displayed so the server-side scripting language (such as php) executes on the server and generates the necessary html for displaying the webpage.
 
