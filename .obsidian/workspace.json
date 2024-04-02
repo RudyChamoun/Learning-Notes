@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Notes/Web Infrastructure/Browser-Server.md",
+                "file": "Learning Notes/Version Control-Repo Hosting/GitHub and GitBash (Git).md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning Notes/Web Infrastructure/Browser-Server.md",
+                "file": "Learning Notes/Version Control-Repo Hosting/GitHub and GitBash (Git).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning Notes/Web Infrastructure/Browser-Server.md",
+                "file": "Learning Notes/Version Control-Repo Hosting/GitHub and GitBash (Git).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning Notes/Web Infrastructure/Browser-Server.md"
+                "file": "Learning Notes/Version Control-Repo Hosting/GitHub and GitBash (Git).md"
               }
             }
           }
@@ -208,18 +208,18 @@
   },
   "active": "f72915d9c51a5ca0",
   "lastOpenFiles": [
-    "Learning Notes/Backend/Routes.md",
-    "Learning Notes/Backend/Middleware.md",
-    "Learning Notes/Backend/JavaScript.md",
-    "Learning Notes/Web Infrastructure/Browser-Server.md",
+    "Learning Notes/Content to Learn.md",
     "Apgar/Operational Manager Interview Content.md",
-    "Learning Notes/Web Infrastructure/Cookies - Sessions.md",
-    "Learning Notes/Web Infrastructure/HTML.md",
     "Apgar/Technical Exam Content.md",
+    "Learning Notes/Web Infrastructure/Browser-Server.md",
+    "Learning Notes/Web Infrastructure/Cookies - Sessions.md",
     "Learning Notes/Version Control-Repo Hosting/GitHub and GitBash (Git).md",
+    "Learning Notes/Backend/JavaScript.md",
+    "Learning Notes/Backend/Middleware.md",
+    "Learning Notes/Backend/Routes.md",
+    "Learning Notes/Web Infrastructure/HTML.md",
     "Learning Notes/Backend/Middleware",
     "().md",
-    "Learning Notes/Content to Learn.md",
     "Learning Notes/Version Control-Repo Hosting",
     "Learning Notes/Web Infrastructure",
     "Backend.md",

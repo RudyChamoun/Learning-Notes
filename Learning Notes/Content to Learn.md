@@ -1,6 +1,7 @@
-## RoadMap
+## RoadMap (Write Everything You Learn)
 
-- Learn JavaScript syntax + it's use [ Learn through Codecademy + watch youtube video]
+- Continue Learning JavaScript syntax + it's use [ Learn through Codecademy + watch youtube video]
+- Read files of elio on github ( to understand each function and routes)
 
 - Practice JavaScript prbs [ Use CSC50 ]
 

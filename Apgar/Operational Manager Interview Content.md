@@ -1,3 +1,5 @@
+## Listen to Voices of Michel + See Notes of Apgar on phone
+
 
 - Teams of 4 (each team assigned to a company)
 	- Daily meeting to check up on tasks

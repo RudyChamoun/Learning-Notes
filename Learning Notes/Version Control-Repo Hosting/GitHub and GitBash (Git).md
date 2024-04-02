@@ -43,3 +43,6 @@ This file contains the instructions and functionalities of working on developmen
         5. Once your changes are ready, you can create a pull request on GitHub to merge your changes from my-feature-branch into main. 
         
 This allows other contributors to review your changes before they're merged into the main branch.
+
+==Note== : If another collaborator (who has the repo locally as well) creates a branch and modifies files of the repo on his local repository. When he pushes the changes to the branch he created, he has to do a pull request to merge the changes made to the branch to the main branch. Once its done, in order to get the saved changes he did to the remote repository, I have to navigate using Git Bash to the directory of the local repo and run the following command : 
+git **pull**
