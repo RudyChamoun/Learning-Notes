@@ -1,7 +1,7 @@
 ## <u>Intro to JavaScript</u>
 
 - In backend development, JavaScript (often referred to as Node.js) is used to write server-side code that runs on the server rather than in the browser
-- It is powered by ==Node.js==, a runtime environment that allows developers to run JavaScript on the server.
+- It is powered by ==Node.js==, wich provides  runtime environment that allows developers to run JavaScript on the server.
 - With Node.js, we can use JavaScript to build scalable, high-performance server-side applications.
 
 ## <u>How JavaScript Interacts with the Server</u>

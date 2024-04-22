@@ -32,19 +32,19 @@
             }
           },
           {
-            "id": "2c4f51cadbf77034",
+            "id": "6411faf24c6bb9a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Notes/Backend/JavaScript.md",
+                "file": "Learning Notes/Backend/Routes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6411faf24c6bb9a9",
+            "id": "f67100c96838730f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -195,20 +195,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6411faf24c6bb9a9",
+  "active": "f67100c96838730f",
   "lastOpenFiles": [
-    "Learning Notes/Web Infrastructure/Browser-Server.md",
-    "Learning Notes/Backend/Middleware.md",
+    "Learning Notes/Backend/Routes.md",
     "Learning Notes/Content to Learn.md",
+    "Pasted image 20240404121438.png",
+    "Learning Notes/Backend/Express JS (Tutorial).md",
     "Learning Notes/Backend/JavaScript.md",
     "Learning Notes/Version Control-Repo Hosting/GitHub and GitBash (Git).md",
-    "Learning Notes/Web Infrastructure/Cookies - Sessions.md",
+    "Untitled.canvas",
+    "Screenshot 2024-04-16 130607.png",
     "Apgar/Technical Exam Content.md",
+    "Learning Notes/Backend/Middleware.md",
+    "Apgar/Operational Manager Interview Content.md",
+    "Learning Notes/Web Infrastructure/Browser-Server.md",
+    "Learning Notes/Web Infrastructure/Cookies - Sessions.md",
     "Pasted image 20240404131053.png",
     "Pasted image 20240404163024.png",
-    "Pasted image 20240404121438.png",
-    "Learning Notes/Backend/Routes.md",
-    "Apgar/Operational Manager Interview Content.md",
     "Learning Notes/Web Infrastructure/HTML.md",
     "Learning Notes/Backend/Middleware",
     "().md",
