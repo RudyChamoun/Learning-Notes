@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Notes/Backend/JavaScript.md",
+                "file": "Learning Notes/Backend/Express JS (Tutorial).md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning Notes/Backend/JavaScript.md",
+                "file": "Learning Notes/Backend/Express JS (Tutorial).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning Notes/Backend/JavaScript.md",
+                "file": "Learning Notes/Backend/Express JS (Tutorial).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning Notes/Backend/JavaScript.md"
+                "file": "Learning Notes/Backend/Express JS (Tutorial).md"
               }
             }
           }
@@ -197,16 +197,16 @@
   },
   "active": "f67100c96838730f",
   "lastOpenFiles": [
+    "Learning Notes/Backend/Middleware.md",
+    "Learning Notes/Backend/Express JS (Tutorial).md",
+    "Learning Notes/Backend/JavaScript.md",
     "Learning Notes/Backend/Routes.md",
     "Learning Notes/Content to Learn.md",
     "Pasted image 20240404121438.png",
-    "Learning Notes/Backend/Express JS (Tutorial).md",
-    "Learning Notes/Backend/JavaScript.md",
     "Learning Notes/Version Control-Repo Hosting/GitHub and GitBash (Git).md",
     "Untitled.canvas",
     "Screenshot 2024-04-16 130607.png",
     "Apgar/Technical Exam Content.md",
-    "Learning Notes/Backend/Middleware.md",
     "Apgar/Operational Manager Interview Content.md",
     "Learning Notes/Web Infrastructure/Browser-Server.md",
     "Learning Notes/Web Infrastructure/Cookies - Sessions.md",
